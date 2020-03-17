@@ -1,12 +1,12 @@
 # Oracle APEX 애플리케이션 개발
 
-### [HOL01-Oracle APEX 애플리케이션 개발 - 엑셀 파일 데이터](https://github.com/hiwylee/apex/tree/master/APEX_HOL/HOL01)
+### [HOL01- APEX 애플리케이션 개발 - 엑셀 파일 데이터](https://github.com/hiwylee/apex/tree/master/APEX_HOL/HOL01)
 * 워크스페이스 확보
 * 엑셀 파일을 업로드하여 첫 번째 앱 개발
 * 대화형 보고서 기능 향상
 * 일정 관리 추가
 
-### [HOL02-Oracle Autonomous Cloud Service의 RESTful API 기반 APEX 앱 구축](https://github.com/hiwylee/apex/tree/master/APEX_HOL/HOL2)
+### [HOL02-RESTful API 기반 APEX 앱 구축](https://github.com/hiwylee/apex/tree/master/APEX_HOL/HOL2)
 * 테이블에 REST 모듈 생성
 * 새로운 애플리케이션에 웹 소스 모듈 생성
 * 웹 소스를 사용하여 웹 페이지 생성
