@@ -34,7 +34,7 @@ ALTER TRIGGER  "unique trigger name" ENABLE
 ### # How to log inserted, or updated date & time by a table trigger in APEX application
 
 
-1. inserting(v('APP_USER') is a log-in user name)
+1. inserting (v('APP_USER') is a log-in user name)
 
 ```
 CREATE OR REPLACE EDITIONABLE TRIGGER  "unique trigger name" 
@@ -51,7 +51,7 @@ ALTER TRIGGER  "unique trigger name" ENABLE
 /
 ```
 
-2. updating(v('APP_USER') is a log-in user name)
+2. updating (v('APP_USER') is a log-in user name)
 
 ```
 CREATE OR REPLACE EDITIONABLE TRIGGER  "unique trigger name" 
