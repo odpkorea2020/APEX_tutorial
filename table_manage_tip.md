@@ -1,4 +1,4 @@
-### # How to log log-in user activities by a table trigger in APEX application
+### # How to log inserted, or updated date & time by a table trigger in APEX application
 
 1. for inserting
 
@@ -31,8 +31,7 @@ end;
 ALTER TRIGGER  "unique trigger name" ENABLE
 ```
 
-### # How to log inserted, or updated date & time by a table trigger in APEX application
-
+### # How to log log-in user activities by a table trigger in APEX application
 
 1. inserting (v('APP_USER') is a log-in user name)
 
