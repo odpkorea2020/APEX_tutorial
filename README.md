@@ -7,7 +7,7 @@
 * APEX 소개 자료(준비중)
 * APEX UI 기본 개념 설명
 ### 2. Hand On Labs : 선택사항 => HOL01 , HOL02 둘 중에 하나만 / HOL03 은 차트 만드는 실습 ?
-#### [(HOL01) - APEX 애플리케이션 개발 - 엑셀 파일 데이터](https://github.com/hiwylee/apex/tree/master/APEX_HOL/HOL01)
+#### [(HOL01) - APEX 애플리케이션 개발 - 엑셀 파일 데이터 - 데모 시연 ](https://github.com/hiwylee/apex/tree/master/APEX_HOL/HOL01)
 * 워크스페이스 확보
 * 엑셀 파일을 업로드하여 첫 번째 앱 개발
 * 대화형 보고서 기능 향상
