@@ -2,7 +2,7 @@
 ### 0. 사전 준비 
 * Always Free Services : [신청](https://myservices.us.oraclecloud.com/mycloud/signup?language=en&sourceType=:ow:o:p:feb:0916FreePageBannerButton&intcmp=:ow:o:p:feb:0916FreePageBannerButton)
 * 무료 웍스페이스 신청 : [직접 요청 링크](https://apex.oracle.com/pls/apex/f?p=4700&p_lang=ko)
-* APEX 소개 자료
+
 ### 1.APEX 소개
 * APEX 소개 자료(준비중)
 * APEX UI 기본 개념 설명
