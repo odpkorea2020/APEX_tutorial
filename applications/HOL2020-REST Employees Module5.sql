@@ -28,8 +28,8 @@ prompt APPLICATION 134695 - HOL2020-REST Employees Module5
 -- Application Export:
 --   Application:     134695
 --   Name:            HOL2020-REST Employees Module5
---   Date and Time:   06:15 Friday April 17, 2020
---   Exported By:     HIWYLEE@GMAIL.COM
+--   Date and Time:   06:34 Friday April 17, 2020
+--   Exported By:     DEMO
 --   Flashback:       0
 --   Export Type:     Application Export
 --     Pages:                      5
@@ -82,6 +82,8 @@ wwv_flow_api.create_flow(
 ,p_owner=>nvl(wwv_flow_application_install.get_schema,'WYAPEX')
 ,p_name=>nvl(wwv_flow_application_install.get_application_name,'HOL2020-REST Employees Module5')
 ,p_alias=>nvl(wwv_flow_application_install.get_application_alias,'HOL2020-REST-EMPLOYEES-MODULE4134695')
+,p_application_group=>7545880993956169258
+,p_application_group_name=>'APEX_HOL'
 ,p_page_view_logging=>'YES'
 ,p_page_protection_enabled_y_n=>'Y'
 ,p_checksum_salt=>'2D3E0E858C01980BCC90094AF56B165A487A4615B8F08008A892DE2FB4434413'
@@ -116,8 +118,8 @@ wwv_flow_api.create_flow(
 ,p_auto_time_zone=>'N'
 ,p_substitution_string_01=>'APP_NAME'
 ,p_substitution_value_01=>'HOL2020-REST Employees Module4'
-,p_last_updated_by=>'HIWYLEE@GMAIL.COM'
-,p_last_upd_yyyymmddhh24miss=>'20200417061156'
+,p_last_updated_by=>'DEMO'
+,p_last_upd_yyyymmddhh24miss=>'20200417063300'
 ,p_file_prefix => nvl(wwv_flow_application_install.get_static_app_file_prefix,'')
 ,p_files_version=>3
 ,p_ui_type_name => null
@@ -11007,22 +11009,22 @@ wwv_flow_api.create_page(
 ,p_user_interface_id=>wwv_flow_api.id(15082897540971832853)
 ,p_name=>'Home'
 ,p_alias=>'HOME'
-,p_step_title=>'HOL2020-REST Employees Module4'
+,p_step_title=>'HOL2020-REST Employees Module 5'
 ,p_autocomplete_on_off=>'OFF'
 ,p_page_template_options=>'#DEFAULT#'
-,p_last_updated_by=>'HIWYLEE@GMAIL.COM'
-,p_last_upd_yyyymmddhh24miss=>'20200417052124'
+,p_last_updated_by=>'DEMO'
+,p_last_upd_yyyymmddhh24miss=>'20200417063300'
 );
 wwv_flow_api.create_page_plug(
  p_id=>wwv_flow_api.id(15082908418684832871)
-,p_plug_name=>'HOL2020-REST Employees Module4'
+,p_plug_name=>'HOL2020-REST Employees Module5'
 ,p_icon_css_classes=>'app-icon'
 ,p_region_template_options=>'#DEFAULT#'
-,p_escape_on_http_output=>'Y'
 ,p_plug_template=>wwv_flow_api.id(15082803226596832781)
 ,p_plug_display_sequence=>10
 ,p_plug_display_point=>'REGION_POSITION_01'
 ,p_plug_query_num_rows=>15
+,p_plug_query_options=>'DERIVED_REPORT_COLUMNS'
 ,p_attribute_01=>'N'
 ,p_attribute_02=>'HTML'
 ,p_attribute_03=>'Y'
