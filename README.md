@@ -1,8 +1,10 @@
 # Oracle APEX 애플리케이션 개발
+<!---
 ### 주의 사항
 * 무료 웍스페이스가 19.2->20.1로 업그레이드 됨 [New Feature](https://apex.oracle.com/pls/apex/apex_pm/r/apex201/new-features)
 * 기본 대시 보드가 생성 안됨
 * url 문법이 바뀜/ 선택옵션
+-->
 * (HOL02) -> 데이터셋 TABLE 이름 변경 sample$... -> EBA_...
 ### 0. 사전 준비 
 * Always Free Services : [신청](https://myservices.us.oraclecloud.com/mycloud/signup?language=en&sourceType=:ow:o:p:feb:0916FreePageBannerButton&intcmp=:ow:o:p:feb:0916FreePageBannerButton)
@@ -11,7 +13,7 @@
 ### 1.APEX 소개
 * APEX 소개 자료(준비중)
 * APEX UI 기본 개념 설명
-### 2. Hand On Labs : 선택사항 => HOL01 , HOL02 둘 중에 하나만 / HOL03 은 차트 만드는 실습 ?
+### 2. Hand On Labs
 #### [(HOL01) - APEX 애플리케이션 개발 - 엑셀 파일 데이터 - 데모 시연 ](https://oracle.github.io/learning-library/developer-library/apex/spreadsheet)
 * 워크스페이스 확보
 * 엑셀 파일을 업로드하여 첫 번째 앱 개발
@@ -37,7 +39,7 @@
    * Environment:	https://apex.oracle.com/pls/apex/
    * Workspace:	wy_apex
    * admin 접속정보 :	hiwylee@gmail.com/D*****!
-   * 개발자  접속정보 : demo/qwER12#$
+   * 개발자  접속정보 : demo***/***qwER12#$***
  * 공식 문서 (APEX 19.2) : https://docs.oracle.com/en/database/oracle/application-express/19.2/
  * 무료 웍스페이스 신청 : 직접 요청 링크 : https://apex.oracle.com/pls/apex/f?p=4700&p_lang=ko  
 
