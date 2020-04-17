@@ -23,12 +23,14 @@
 * 샘플 데이터세트 설치
 * 앱 생성 마법사를 사용하여 기존 테이블로 앱 생성
 * 몇 가지 사소한 개선으로 애플리케이션 유용성 향상
+
 * 모듈별 완성된 Projects [Donwload](applications/HOL2020-Projects.zip)
 #### [(HOL03) RESTful API 기반 APEX 앱 구축 (1 시간)](https://oracle.github.io/learning-library/developer-library/apex/rest-web-source)
 * 테이블에 REST 모듈 생성
 * 새로운 애플리케이션에 웹 소스 모듈 생성
 * 웹 소스를 사용하여 웹 페이지 생성
 * 목록을 정의하는 함수 추가
+* 모듈별 완성된 Projects [Donwload](applications/HOL2020-REST Employees Module.zip)
 
 #### [(HOL04) Table 관리 tip](https://github.com/odpkorea2020/APEX_tutorial/blob/master/table_manage_tip.md)
 ---
