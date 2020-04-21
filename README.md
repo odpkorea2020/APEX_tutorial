@@ -30,7 +30,7 @@
 * 새로운 애플리케이션에 웹 소스 모듈 생성
 * 웹 소스를 사용하여 웹 페이지 생성
 * 목록을 정의하는 함수 추가
-* 모듈별 완성된 Projects [Donwload](applications/HOL2020-REST%20Employee%20Module.zip)
+* 모듈별 완성된 Projects [Donwload](applications/HOL2020-REST_Employees.zip)
 <!--
 #### [(HOL04) Table 관리 tip](https://github.com/odpkorea2020/APEX_tutorial/blob/master/table_manage_tip.md)
 -->
