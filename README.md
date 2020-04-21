@@ -1,6 +1,6 @@
 # Oracle APEX 애플리케이션 개발
 ### 0. 사전 준비 사항
-* Always Free Services : [신청](https://myservices.us.oraclecloud.com/mycloud/signup?language=en&sourceType=:ow:o:p:feb:0916FreePageBannerButton&intcmp=:ow:o:p:feb:0916FreePageBannerButton) [신청가이드](http://cloud-docs.taewan.me/010.oci_intro/hands-on-101/000.oci_free_trial/)
+* Always Free Services : [(신청)](https://myservices.us.oraclecloud.com/mycloud/signup?language=en&sourceType=:ow:o:p:feb:0916FreePageBannerButton&intcmp=:ow:o:p:feb:0916FreePageBannerButton) [(신청가이드)](http://cloud-docs.taewan.me/010.oci_intro/hands-on-101/000.oci_free_trial/)
 * 무료 웍스페이스 신청 : [직접 요청 링크](https://apex.oracle.com/pls/apex/f?p=4700&p_lang=ko)
 
 ### 1.APEX 소개
