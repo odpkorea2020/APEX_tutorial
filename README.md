@@ -6,7 +6,7 @@
 ### 1.APEX 소개
 * APEX 소개 자료(준비중)
 * APEX UI 기본 개념 설명
-### 2. Hand On Labs : 선택사항 => HOL01 , HOL02 둘 중에 하나만 / HOL03 은 차트 만드는 실습 ?
+### 2. Hand On Labs
 #### [(HOL01) - APEX 애플리케이션 개발 - 엑셀 파일 데이터 - 데모 시연 ](https://github.com/hiwylee/apex/tree/master/APEX_HOL/HOL01)
 * 워크스페이스 확보
 * 엑셀 파일을 업로드하여 첫 번째 앱 개발
@@ -16,26 +16,25 @@
 * 샘플 데이터세트 설치
 * 앱 생성 마법사를 사용하여 기존 테이블로 앱 생성
 * 몇 가지 사소한 개선으로 애플리케이션 유용성 향상
+* 모듈별 완성된 Projects : [(Donwload)](applications/HOL2020-Projects.zip)
 #### [(HOL03) RESTful API 기반 APEX 앱 구축 (1 시간)](https://github.com/hiwylee/apex/tree/master/APEX_HOL/HOL2)
 * 테이블에 REST 모듈 생성
 * 새로운 애플리케이션에 웹 소스 모듈 생성
 * 웹 소스를 사용하여 웹 페이지 생성
 * 목록을 정의하는 함수 추가
+* 모듈별 완성된 Projects : [(Donwload)](applications/HOL2020-REST_Employees.zip)
 <!--
 #### [(HOL04) Table 관리 tip](https://github.com/odpkorea2020/APEX_tutorial/blob/master/table_manage_tip.md)
 
 -->---
 ### 3 참조자료 
 ---
-#### Workspace 
- * [Oracle's Free Workspace(APEX)](https://apex.oracle.com/pls/apex/)
-   * Environment:	https://apex.oracle.com/pls/apex/
-   * Workspace:	wy_apex
-   * admin 접속정보 :	hiwylee@gmail.com/D*****!
-   * 개발자  접속정보 : demo/qwER12#$
+
+#### 기본 정보 
+ * 홈페이지 : https://apex.oracle.com/ko/learn/documentation/
  * 공식 문서 (APEX 19.2) : https://docs.oracle.com/en/database/oracle/application-express/19.2/
- * 무료 웍스페이스 신청 : 직접 요청 링크 : https://apex.oracle.com/pls/apex/f?p=4700&p_lang=ko  
 <!--
+
 ####  Demo Apps
   * 데모 접속 정보 : demo/demo  
     * [Simple Demo : Create App Wizard](https://qsbizk930fjk4g6-apex.adb.ap-seoul-1.oraclecloudapps.com/ords/f?p=101)
