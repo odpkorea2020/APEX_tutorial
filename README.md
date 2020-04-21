@@ -31,8 +31,9 @@
 * 웹 소스를 사용하여 웹 페이지 생성
 * 목록을 정의하는 함수 추가
 * 모듈별 완성된 Projects [Donwload](applications/HOL2020-REST Employees Module.zip)
-
+<!--
 #### [(HOL04) Table 관리 tip](https://github.com/odpkorea2020/APEX_tutorial/blob/master/table_manage_tip.md)
+-->
 ---
 ### 3 참조자료 
 ---
