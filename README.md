@@ -6,7 +6,7 @@
 ### 1.APEX 소개
 * APEX 소개 자료([다운로드](#))
 ### 2. Hand On Labs
-#### [(HOL01) - APEX 애플리케이션 개발 - 엑셀 파일 데이터 - 데모 시연 ](https://github.com/hiwylee/apex/tree/master/APEX_HOL/HOL01)
+#### [(HOL01) - APEX 애플리케이션 개발 - 엑셀 파일 데이터 - 데모 시연 ](https://github.com/odpkorea2020/apex/tree/master/APEX_HOL/HOL01)
 * 워크스페이스 확보
 * 엑셀 파일을 업로드하여 첫 번째 앱 개발
 * 대화형 보고서 기능 향상
