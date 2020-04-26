@@ -11,7 +11,7 @@
 * 엑셀 파일을 업로드하여 첫 번째 앱 개발
 * 대화형 보고서 기능 향상
 * 일정 관리 추가
-#### [(HOL02) - APEX 애플리케이션 개발 - 기존 테이블 데이터 ](https://oracle.github.io/learning-library/developer-library/apex/existing-tables/?page=README.md)
+#### [(HOL02) - APEX 애플리케이션 개발 - 기존 테이블 데이터 ](https://github.com/odpkorea2020/apex/tree/master/APEX_HOL/HOL02)
 * 샘플 데이터세트 설치
 * 앱 생성 마법사를 사용하여 기존 테이블로 앱 생성
 * 몇 가지 사소한 개선으로 애플리케이션 유용성 향상
